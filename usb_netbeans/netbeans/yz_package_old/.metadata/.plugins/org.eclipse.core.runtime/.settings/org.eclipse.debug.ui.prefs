@@ -1,0 +1,5 @@
+#Mon Oct 11 21:12:28 JST 2004
+eclipse.preferences.version=1
+org.eclipse.debug.ui.opened_views=org.eclipse.debug.ui.VariableView,org.eclipse.debug.ui.BreakpointView,
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<launchPerspectives>\r\n<launchPerspective configurationType\="org.eclipse.jdt.launching.javaApplet" mode\="run" perspective\="org.eclipse.debug.ui.DebugPerspective"/>\r\n</launchPerspectives>\r\n
+org.eclipse.debug.ui.views_to_not_open=org.eclipse.debug.ui.DebugView,

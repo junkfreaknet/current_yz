@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Generated-from: 1088134786000;type=2
+Bundle-Name: %name
+Bundle-SymbolicName: org.eclipse.pde.runtime; singleton=true
+Bundle-Version: 3.0.0
+Bundle-ClassPath: pdert.jar
+Bundle-Activator: org.eclipse.core.internal.compatibility.PluginActivator
+Bundle-Vendor: %provider-name
+Bundle-Localization: plugin
+Provide-Package: org.eclipse.pde.internal.runtime.registry,
+ org.eclipse.pde.internal.runtime.logview,
+ org.eclipse.pde.internal.runtime
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime.compatibility,
+ org.eclipse.ui.views
+Eclipse-AutoStart: true
+Plugin-Class: org.eclipse.pde.internal.runtime.PDERuntimePlugin

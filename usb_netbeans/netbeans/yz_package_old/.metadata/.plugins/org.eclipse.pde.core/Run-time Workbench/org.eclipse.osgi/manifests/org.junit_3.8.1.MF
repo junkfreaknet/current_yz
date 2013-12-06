@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Generated-from: 1088134604000;type=2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.junit
+Bundle-Version: 3.8.1
+Bundle-ClassPath: junit.jar
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Provide-Package: junit.swingui,
+ junit.swingui.icons,
+ junit.runner,
+ junit.extensions,
+ .,
+ junit.framework,
+ junit.textui,
+ junit.awtui
+Eclipse-AutoStart: true
