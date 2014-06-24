@@ -13,10 +13,10 @@ public class DisplayNo {
 	private void constructorCommon(String displayno){
 		this.displayno=displayno;
 	}
-	public String getDisplayNo(){
+	public String get(){
 		return this.displayno;
 	}
-	public void setDisplayNo(String displayno){
+	public void set(String displayno){
 		this.displayno=displayno;
 	}
 }

@@ -13,10 +13,10 @@ public class BlockNo {
 	private void constructorCommon(String blockno){
 		this.blockno=blockno;		
 	}
-	public String getBlockNo(){
+	public String get(){
 		return this.blockno;
 	}
-	public void setBlockNo(String blockno){
+	public void set(String blockno){
 		this.blockno=blockno;
 	}
 }

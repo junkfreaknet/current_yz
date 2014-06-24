@@ -10,10 +10,10 @@ public class ShippingNo {
 	public ShippingNo(String shippingno){
 		this.shippingno=shippingno;
 	}
-	public String getShippingNo(){
+	public String get(){
 		return shippingno;
 	}
-	public void setShippingNo(String shippingno){
+	public void set(String shippingno){
 		this.shippingno=shippingno;
 	}
 }
