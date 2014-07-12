@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Generated-from: 1088134798000;type=4
-Bundle-Name: %pluginName
-Bundle-SymbolicName: org.eclipse.platform.source.win32.win32.x86; singleton=true
-Bundle-Version: 3.0.0
-Bundle-Vendor: Eclipse.org
-Fragment-Host: org.eclipse.platform.source;bundle-version="[3.0.0,4.0.0)"
-Bundle-Localization: plugin

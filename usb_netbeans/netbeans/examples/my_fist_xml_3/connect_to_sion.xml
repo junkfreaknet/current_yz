@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<paramaters>
-  <server_name>U03AH13D</server_name>
-  <server_instance>MSSQLSERVER</server_instance>
-  <db_name>SION0300</db_name>
-  <user_name>haidlogon</user_name>
-  <user_password>haidlogon</user_password>
-</paramaters>
